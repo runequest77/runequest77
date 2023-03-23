@@ -8,7 +8,9 @@
 
 # githubでの書き物とか
 - [技術記事](https://github.com/runequest77/runequest77/wiki)
+- [ToDo](https://github.com/users/runequest77/projects/1)
 - [日記](https://github.com/runequest77/runequest77/tree/main/%E6%97%A5%E8%A8%98)
+
 
 # プログラミングとは関係ない外部サイト
 - [蒼き月の囁き](https://nayuta77.hatenadiary.com/)　TRPGを主としたつれづれをときどき書くブログ。
