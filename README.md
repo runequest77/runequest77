@@ -5,11 +5,9 @@
 - chatGPTが助けてくれるようになって、いろいろ便利になりました。
 
 # プログラミングとは関係ないもの
--[蒼き月の囁き](https://nayuta77.hatenadiary.com/)　TRPGを主としたつれづれをときどき書くブログ。
--[chatGPT](https://chat.openai.com/chat)　自分用
+- [蒼き月の囁き](https://nayuta77.hatenadiary.com/)　TRPGを主としたつれづれをときどき書くブログ。
+- [chatGPT](https://chat.openai.com/chat)　自分用
 
-
-### Hi there 👋
 
 <!--
 **runequest77/runequest77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
