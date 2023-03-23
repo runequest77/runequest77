@@ -6,10 +6,11 @@
 - ココフォリア、ユドナリウム、Roll20、FVTTと一通り試して、ダイスのロールが多いBRPのセッションに向いていなかったので自作。
 - chatGPTが助けてくれるようになって、いろいろ便利になりました。
 
-# 技術記事
-- https://github.com/runequest77/runequest77/wiki
+# githubでの書き物とか
+- [技術記事](https://github.com/runequest77/runequest77/wiki)
+- [日記](https://github.com/runequest77/runequest77/tree/main/%E6%97%A5%E8%A8%98]
 
-# プログラミングとは関係ないもの
+# プログラミングとは関係ない外部サイト
 - [蒼き月の囁き](https://nayuta77.hatenadiary.com/)　TRPGを主としたつれづれをときどき書くブログ。
 - [chatGPT](https://chat.openai.com/chat)　自分用
 
