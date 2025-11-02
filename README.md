@@ -6,6 +6,9 @@
 - ココフォリア、ユドナリウム、Roll20、FVTTと一通り試して、ダイスのロールが多いBRPのセッションに向いていなかったので自作。
 - chatGPTが助けてくれるようになって、いろいろ便利になりました。
 
+# TRPG/ルーンクエスト/グローランサ　キャンペーンポータル
+- [那由他の狭間](https://github.com/runequest77/hazama_public/wiki)
+
 # githubでの書き物とか
 - [技術記事](https://github.com/runequest77/runequest77/wiki)
 - [ToDo](https://github.com/users/runequest77/projects/1)
